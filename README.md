@@ -34,7 +34,6 @@
 - **건축 연도, 면적 등 다양한 변수 간 상관관계 탐색**
 - **이상치(비정상 거래) 감지 및 시각화**
 
-> EDA는 Jupyter Notebook 및 Matplotlib, Seaborn, Plotly 등을 활용해 진행했습니다.
 
 ---
 
@@ -55,20 +54,38 @@
 
 ---
 
-## 👥 팀원 소개
 
 ## 👥 팀원 소개
 
-| 이름 | 역할 | 미모티콘 |
-|------|------|----------|
-| 유라 | 데이터 EDA | ![유라](./assets/eunsu.png) |
-| 은수 | Streamlit 개발 | ![은수](./assets/jimin.png) |
-| 초아 | 데이터 시각화 | ![초아](./assets/sky.png) |
-| 태양 | 데이터 전처리 | ![태양](./assets/taeyang.png) |
+<p align="center">
+
+  <img src="./assets/eunsu.png" width="100"/>
+  <br/>
+  <b>유라</b><br/>
+  데이터 EDA
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="./assets/jimin.png" width="100"/>
+  <br/>
+  <b>은수</b><br/>
+  Streamlit 개발
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="./assets/sky.png" width="100"/>
+  <br/>
+  <b>초아</b><br/>
+  데이터 시각화
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="./assets/taeyang.png" width="100"/>
+  <br/>
+  <b>태양</b><br/>
+  데이터 전처리
+
+</p>
 
 
-
----
-
-## 📁 디렉토리 구조 (예시)
 

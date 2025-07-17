@@ -46,8 +46,6 @@
 
 👉 [Streamlit 실시간 대시보드 보러가기](https://m7wq3cna37q8vzejeq2ta3.streamlit.app/) 
 
-> ※ 앱 링크는 실제 배포 후 주소로 교체해주세요!
-
 ---
 
 

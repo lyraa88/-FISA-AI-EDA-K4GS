@@ -57,35 +57,10 @@
 
 ## 👥 팀원 소개
 
-<p align="center">
+|  |  |  |  |
+|--|--|--|--|
+| ![유라](./assets/eunsu.png)<br>**유라**<br>데이터 EDA | ![은수](./assets/jimin.png)<br>**은수**<br>Streamlit 개발 | ![초아](./assets/sky.png)<br>**초아**<br>데이터 시각화 | ![태양](./assets/taeyang.png)<br>**태양**<br>데이터 전처리 |
 
-  <img src="./assets/eunsu.png" width="100"/>
-  <br/>
-  <b>유라</b><br/>
-  데이터 EDA
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="./assets/jimin.png" width="100"/>
-  <br/>
-  <b>은수</b><br/>
-  Streamlit 개발
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="./assets/sky.png" width="100"/>
-  <br/>
-  <b>초아</b><br/>
-  데이터 시각화
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="./assets/taeyang.png" width="100"/>
-  <br/>
-  <b>태양</b><br/>
-  데이터 전처리
-
-</p>
 
 
 

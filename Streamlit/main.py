@@ -4,7 +4,8 @@ import folium
 from streamlit_folium import st_folium
 
 # CSV 데이터 불러오기
-df = pd.read_csv("2024_price.csv")
+df = pd.read_csv("Data/2024_price.csv")
+
 
 # 물건금액 범위 동적으로 계산
 min_price_val = df["물건금액"].min()

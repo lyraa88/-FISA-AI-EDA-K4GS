@@ -48,7 +48,7 @@
 
 ## 🔍 EDA (Exploratory Data Analysis)
 
-### 1️⃣✅ 가설 설정 (Hypotheses)
+### 1️⃣ 가설 설정 (Hypotheses)
 EDA 분석 방향 제시
 
 1. 건물 층수가 높을수록 가격이 높을 것이다.

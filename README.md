@@ -64,7 +64,8 @@
 
 |  |  |  |  |
 |--|--|--|--|
-| ![유라](./assets/eunsu.png)<br>**유라**<br>데이터 EDA | ![은수](./assets/jimin.png)<br>**은수**<br>Streamlit 개발 | ![초아](./assets/sky.png)<br>**초아**<br>데이터 시각화 | ![태양](./assets/taeyang.png)<br>**태양**<br>데이터 전처리 |
+| **유라**<br>데이터 EDA | **은수**<br>Streamlit 개발 | **초아**<br>데이터 시각화 | **태양**<br>데이터 전처리 |
+
 
 
 

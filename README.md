@@ -42,15 +42,6 @@
 
 ---
 
-## 🌐 Streamlit 웹 대시보드
-
-- 📌 **인터랙티브 지도 기반 시각화**
-- 📈 **지역·기간 필터링 기능**
-- 🔍 **이상거래 탐지 결과 제공**
-- 💬 **팀의 주요 인사이트 요약 포함**
-
----
-
 ## 🚀 Streamlit 앱 바로가기
 
 👉 [Streamlit 실시간 대시보드 보러가기](https://your-streamlit-app-link.streamlit.app) 
